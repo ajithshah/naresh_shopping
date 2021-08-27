@@ -18,7 +18,7 @@ To create an admin account, signup for an account and then change the _`isAdmin`
 •	Languages - EJS, CSS, JavaScript, Bootstrap, Node.js and MongoDB
 •	Customer can place and trace their orders.
 ## SCREEN SHOOTS
-#CUSTOMER LOGIN
+# CUSTOMER LOGIN
 ![q1](https://user-images.githubusercontent.com/76985845/131087911-0784dec6-bbb0-4e44-9c5f-b3d6c59cd36c.JPG)
 ![q2](https://user-images.githubusercontent.com/76985845/131087923-34af12e2-2aa8-4b66-ab99-43230e898f6e.JPG)
 ![Q3](https://user-images.githubusercontent.com/76985845/131087930-6a232809-4e7a-4bad-9403-d3602ebfed6c.JPG)
